@@ -4,16 +4,16 @@ This repository contains the "Hello, World!" program implemented in various prog
 
 ## Languages
 
-- [Python](./python/hello_world.py)
-- [Java](./java/HelloWorld.java)
-- [C++](./cpp/hello_world.cpp)
-- [JavaScript](./javascript/hello_world.js)
-- [C#](./csharp/HelloWorld.cs)
-- [Ruby](./ruby/hello_world.rb)
-- [Go](./go/hello_world.go)
-- [Swift](./swift/hello_world.swift)
-- [PHP](./php/hello_world.php)
-- [Rust](./rust/hello_world.rs)
+- [Python](.helloworld.py)
+- [Java](./helloworld.java)
+- [C++](./helloworld.cpp)
+- [JavaScript](./helloworld.js)
+- [C#](./helloworld.cs)
+- [Ruby](./helloworld.rb)
+- [Go](./helloworld.go)
+- [Swift](./helloworld.swift)
+- [PHP](./helloworld.php)
+- [Rust](./helloworld.rs)
 
 Feel free to explore each language's file to see how "Hello, World!" is printed in that specific language.
 
