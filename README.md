@@ -4,7 +4,7 @@ This repository contains the "Hello, World!" program implemented in various prog
 
 ## Languages
 
-- [Python](.helloworld.py)
+- [Python](./helloworld.py)
 - [Java](./helloworld.java)
 - [C++](./helloworld.cpp)
 - [JavaScript](./helloworld.js)
